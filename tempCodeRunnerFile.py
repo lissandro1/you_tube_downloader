@@ -1,0 +1,1 @@
+self.label_2.click(lambda: webbrowser.open('https://www.lissandro1.com.br'))

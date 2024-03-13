@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logook">
+    <file>logo-li.png</file>
+  </qresource>
+</RCC>
